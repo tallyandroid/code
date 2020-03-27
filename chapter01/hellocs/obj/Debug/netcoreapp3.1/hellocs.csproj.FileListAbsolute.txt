@@ -1,0 +1,12 @@
+/Users/christiantisby/Documents/code/chapter01/hellocs/bin/Debug/netcoreapp3.1/hellocs.deps.json
+/Users/christiantisby/Documents/code/chapter01/hellocs/bin/Debug/netcoreapp3.1/hellocs.runtimeconfig.json
+/Users/christiantisby/Documents/code/chapter01/hellocs/bin/Debug/netcoreapp3.1/hellocs.runtimeconfig.dev.json
+/Users/christiantisby/Documents/code/chapter01/hellocs/bin/Debug/netcoreapp3.1/hellocs.dll
+/Users/christiantisby/Documents/code/chapter01/hellocs/bin/Debug/netcoreapp3.1/hellocs.pdb
+/Users/christiantisby/Documents/code/chapter01/hellocs/obj/Debug/netcoreapp3.1/hellocs.csprojAssemblyReference.cache
+/Users/christiantisby/Documents/code/chapter01/hellocs/obj/Debug/netcoreapp3.1/hellocs.csproj.CoreCompileInputs.cache
+/Users/christiantisby/Documents/code/chapter01/hellocs/obj/Debug/netcoreapp3.1/hellocs.AssemblyInfoInputs.cache
+/Users/christiantisby/Documents/code/chapter01/hellocs/obj/Debug/netcoreapp3.1/hellocs.AssemblyInfo.cs
+/Users/christiantisby/Documents/code/chapter01/hellocs/obj/Debug/netcoreapp3.1/hellocs.dll
+/Users/christiantisby/Documents/code/chapter01/hellocs/obj/Debug/netcoreapp3.1/hellocs.pdb
+/Users/christiantisby/Documents/code/chapter01/hellocs/obj/Debug/netcoreapp3.1/hellocs.genruntimeconfig.cache
