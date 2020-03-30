@@ -1,0 +1,12 @@
+/Users/christiantisby/Documents/code/chapter02/arguments/bin/Debug/netcoreapp3.1/arguments.deps.json
+/Users/christiantisby/Documents/code/chapter02/arguments/bin/Debug/netcoreapp3.1/arguments.runtimeconfig.json
+/Users/christiantisby/Documents/code/chapter02/arguments/bin/Debug/netcoreapp3.1/arguments.runtimeconfig.dev.json
+/Users/christiantisby/Documents/code/chapter02/arguments/bin/Debug/netcoreapp3.1/arguments.dll
+/Users/christiantisby/Documents/code/chapter02/arguments/bin/Debug/netcoreapp3.1/arguments.pdb
+/Users/christiantisby/Documents/code/chapter02/arguments/obj/Debug/netcoreapp3.1/arguments.csprojAssemblyReference.cache
+/Users/christiantisby/Documents/code/chapter02/arguments/obj/Debug/netcoreapp3.1/arguments.csproj.CoreCompileInputs.cache
+/Users/christiantisby/Documents/code/chapter02/arguments/obj/Debug/netcoreapp3.1/arguments.AssemblyInfoInputs.cache
+/Users/christiantisby/Documents/code/chapter02/arguments/obj/Debug/netcoreapp3.1/arguments.AssemblyInfo.cs
+/Users/christiantisby/Documents/code/chapter02/arguments/obj/Debug/netcoreapp3.1/arguments.dll
+/Users/christiantisby/Documents/code/chapter02/arguments/obj/Debug/netcoreapp3.1/arguments.pdb
+/Users/christiantisby/Documents/code/chapter02/arguments/obj/Debug/netcoreapp3.1/arguments.genruntimeconfig.cache

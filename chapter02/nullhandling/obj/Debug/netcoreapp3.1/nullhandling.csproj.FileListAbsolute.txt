@@ -1,0 +1,12 @@
+/Users/christiantisby/Documents/code/chapter02/nullhandling/obj/Debug/netcoreapp3.1/nullhandling.csprojAssemblyReference.cache
+/Users/christiantisby/Documents/code/chapter02/nullhandling/obj/Debug/netcoreapp3.1/nullhandling.csproj.CoreCompileInputs.cache
+/Users/christiantisby/Documents/code/chapter02/nullhandling/obj/Debug/netcoreapp3.1/nullhandling.AssemblyInfoInputs.cache
+/Users/christiantisby/Documents/code/chapter02/nullhandling/obj/Debug/netcoreapp3.1/nullhandling.AssemblyInfo.cs
+/Users/christiantisby/Documents/code/chapter02/nullhandling/bin/Debug/netcoreapp3.1/nullhandling.deps.json
+/Users/christiantisby/Documents/code/chapter02/nullhandling/bin/Debug/netcoreapp3.1/nullhandling.runtimeconfig.json
+/Users/christiantisby/Documents/code/chapter02/nullhandling/bin/Debug/netcoreapp3.1/nullhandling.runtimeconfig.dev.json
+/Users/christiantisby/Documents/code/chapter02/nullhandling/bin/Debug/netcoreapp3.1/nullhandling.dll
+/Users/christiantisby/Documents/code/chapter02/nullhandling/bin/Debug/netcoreapp3.1/nullhandling.pdb
+/Users/christiantisby/Documents/code/chapter02/nullhandling/obj/Debug/netcoreapp3.1/nullhandling.dll
+/Users/christiantisby/Documents/code/chapter02/nullhandling/obj/Debug/netcoreapp3.1/nullhandling.pdb
+/Users/christiantisby/Documents/code/chapter02/nullhandling/obj/Debug/netcoreapp3.1/nullhandling.genruntimeconfig.cache
