@@ -1,0 +1,12 @@
+/Users/christiantisby/Documents/code/chapter02/arrays/bin/Debug/netcoreapp3.1/arrays.deps.json
+/Users/christiantisby/Documents/code/chapter02/arrays/bin/Debug/netcoreapp3.1/arrays.runtimeconfig.json
+/Users/christiantisby/Documents/code/chapter02/arrays/bin/Debug/netcoreapp3.1/arrays.runtimeconfig.dev.json
+/Users/christiantisby/Documents/code/chapter02/arrays/bin/Debug/netcoreapp3.1/arrays.dll
+/Users/christiantisby/Documents/code/chapter02/arrays/bin/Debug/netcoreapp3.1/arrays.pdb
+/Users/christiantisby/Documents/code/chapter02/arrays/obj/Debug/netcoreapp3.1/arrays.csprojAssemblyReference.cache
+/Users/christiantisby/Documents/code/chapter02/arrays/obj/Debug/netcoreapp3.1/arrays.csproj.CoreCompileInputs.cache
+/Users/christiantisby/Documents/code/chapter02/arrays/obj/Debug/netcoreapp3.1/arrays.AssemblyInfoInputs.cache
+/Users/christiantisby/Documents/code/chapter02/arrays/obj/Debug/netcoreapp3.1/arrays.AssemblyInfo.cs
+/Users/christiantisby/Documents/code/chapter02/arrays/obj/Debug/netcoreapp3.1/arrays.dll
+/Users/christiantisby/Documents/code/chapter02/arrays/obj/Debug/netcoreapp3.1/arrays.pdb
+/Users/christiantisby/Documents/code/chapter02/arrays/obj/Debug/netcoreapp3.1/arrays.genruntimeconfig.cache
